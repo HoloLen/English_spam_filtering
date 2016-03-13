@@ -1,2 +1,2 @@
-运行English_Spam_Filter
-数据集在此：http://plg.uwaterloo.ca/~gvcormac/treccorpus06/
+杩愯English_Spam_Filter
+鏁版嵁闆嗗湪姝わ細http://plg.uwaterloo.ca/~gvcormac/treccorpus06/
